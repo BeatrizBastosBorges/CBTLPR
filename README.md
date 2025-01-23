@@ -1,3 +1,3 @@
 # Coletânia de trabalhos
 
-Trabalhos apresentados na disciplina de Linguagem de Programação I e II.
+Trabalhos apresentados nas disciplina de Linguagem de Programação I e II.
